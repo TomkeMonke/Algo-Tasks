@@ -1,1 +1,1 @@
-# Algo-Tasks
+# Algorithmic Tasks
